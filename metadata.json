@@ -1,0 +1,6 @@
+{
+  "name": "Análise de Demonstrações Contábeis",
+  "description": "Plataforma inteligente para upload e análise automatizada de demonstrações contábeis (Balanço, DRE, DFC) via IA, com relatórios executivos e gráficos interativos de indicadores financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
